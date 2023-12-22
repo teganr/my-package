@@ -11,7 +11,7 @@ setuptools.setup(
     description='This package allows you to add two numbers (teganmath)', # insert a description here
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="github.com/teganr/my-package" # insert the link to your GitHub repo here
+    url="github.com/teganr/my-package", # insert the link to your GitHub repo here
     #project_urls = {}, # insert necessary URLs here
     license='MIT', # license type
     packages=['teganmath'], # the directory to your package
