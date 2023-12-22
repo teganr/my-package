@@ -4,15 +4,15 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='(package name)', # insert the name of your package here
-    version='(version)', # insert your version here using this format: 0.0.0. Packages will only be updated if this value is changed
-    author='(name)', # insert your name here
-    author_email='(email)', # insert your email here, this is so people can contact you
-    description='(description)', # insert a description here
+    name='teganmath', # insert the name of your package here
+    version='0.0.1', # insert your version here using this format: 0.0.0. Packages will only be updated if this value is changed
+    author='Tegan', # insert your name here
+    author_email='', # insert your email here, this is so people can contact you
+    description='This package allows you to add two numbers (tegan's math)', # insert a description here
     long_description=long_description,
     long_description_content_type="text/markdown",
     url='(link)', # insert the link to your GitHub repo here
-    project_urls = {}, # insert necessary URLs here
+    project_urls = {"github.com/teganr/my-package}, # insert necessary URLs here
     license='MIT', # license type
-    packages=['(dir)'], # the directory to your package
+    packages=['teganmath'], # the directory to your package
 )
