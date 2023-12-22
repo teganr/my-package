@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name='teganmath', # insert the name of your package here
-    version='0.0.1', # insert your version here using this format: 0.0.0. Packages will only be updated if this value is changed
+    version='0.0.0', # insert your version here using this format: 0.0.0. Packages will only be updated if this value is changed
     author='Tegan', # insert your name here
     author_email='', # insert your email here, this is so people can contact you
     description='This package allows you to add two numbers (teganmath)', # insert a description here
