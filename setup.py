@@ -8,7 +8,7 @@ setuptools.setup(
     version='0.0.1', # insert your version here using this format: 0.0.0. Packages will only be updated if this value is changed
     author='Tegan', # insert your name here
     author_email='', # insert your email here, this is so people can contact you
-    description='This package allows you to add two numbers (tegan's math)', # insert a description here
+    description='This package allows you to add two numbers (teganmath)', # insert a description here
     long_description=long_description,
     long_description_content_type="text/markdown",
     url='(link)', # insert the link to your GitHub repo here
