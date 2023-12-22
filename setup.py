@@ -12,7 +12,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url='(link)', # insert the link to your GitHub repo here
-    project_urls = {"github.com/teganr/my-package}, # insert necessary URLs here
+    project_urls = {"github.com/teganr/my-package"}, # insert necessary URLs here
     license='MIT', # license type
     packages=['teganmath'], # the directory to your package
 )
